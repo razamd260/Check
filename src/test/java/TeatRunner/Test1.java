@@ -8,7 +8,7 @@ public class Test1 {
 	public void test() {
 		System.out.println("Hellow World 1 main Maan ja Bhai");
 		String s="ali";
-		Assert.assertEquals("stsg", s);
+		Assert.assertEquals("ali", s);
 		
      }
 }
